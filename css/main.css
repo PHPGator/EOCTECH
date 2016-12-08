@@ -94,7 +94,30 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+.background{
+    background-color: #3b748e;
+    height: 1080px;
+    width: 100%;
+}
+.stack{
+    float: right;
+    background-color: white;
+    height: 600px;
+    width: 100%; 
+}
+.alltext{
+    float:right;
+    background-color: black;
+    height: 500px;
+    width: 1200px;
+}
+.text{
+    float: right;
+    background-color: white;
+    height: 400px;
+    width: 200px;
+    
+}
 
 
 
